@@ -45,6 +45,10 @@
           <p class="text">
             购物车是空的~快去买买买
           </p>
+          <Login></Login>
+          <p class="text"  style="margin-bottom:.4rem;">
+            登录后可同步购物车信息
+          </p>
           <p class="text" style="text-align: left; font-size:.3rem;background:#F8F8F8;padding:.2rem">
             猜你喜欢
           </p>
